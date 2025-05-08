@@ -2,7 +2,7 @@
   "id": "anime3rb",
   "name": "Anime3rb",
   "description": "Anime3rb is an online streaming provider for subbed/dubbed animes in Arabic",
-  "manifestURI": "https://raw.githubusercontent.com/50n50/sources/main/anime3rb/manifest.json",
+  "manifestURI": "https://raw.githubusercontent.com/ali-pxr/Seanime-streaming-providers/refs/heads/main/src/AnimeKai/manifest.json",
   "version": "1.0.0",
   "author": "yourusername",
   "type": "onlinestream-provider",
